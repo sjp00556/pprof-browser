@@ -17,7 +17,7 @@
 > $ ./pprof-browser --help                        
 Usage of ./pprof-browser:
   -dir string
-    	files dir
+    	work dir (default "./")
   -f	run foreground
   -p string
     	port (default "8888")
